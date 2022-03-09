@@ -6,7 +6,7 @@ You will need to update the user "test" password.
 
 Update the connection string on line 22 in file `server/middleware/middleware.go`
 
-###WARNING
+### WARNING
 
 Note: Storing password in code is not ideal and it is not recommended for production environments. This is done for for testing purpose and not complicate the code. 
  
