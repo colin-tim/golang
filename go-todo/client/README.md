@@ -1,11 +1,11 @@
 ### react client
 
 ### Install packages
-From client directory, install all the dependencies using `npm install` 
+From client folder, install all the dependencies using `npm install` 
 
 ### Running the app in dev mode
 
-Runs the app in the development mode.<br />
+In the `client` folder run this command in a terminal window
 
 ### `npm start`
 
