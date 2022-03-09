@@ -9,6 +9,7 @@ In project directory path open terminal and run commands:
 ### How to start the server
 
 Open a terminal window in project directory, cd into server, and run this command:
-go run main.go    `go run main.go
+
+### `go run main.go`
 
 This wil start the server on port 8080.
